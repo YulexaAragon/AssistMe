@@ -16,6 +16,6 @@ AssistMe es un software diseñado para agilizar el desarrollo de los procesos en
 
 1. Clona el repositorio en un servidor local.
 2. Crea una base de datos MySQL para el proyecto.
-3. Importa el archivo de base de datos incluido en database/assiste.sql en tu base de datos recién creada.
+3. Importa el archivo de base de datos incluido en BD/assistme.sql en tu base de datos recién creada.
 4. Actualiza los valores de configuración con tu información de conexión a la base de datos.
 5. Inicia el servidor web y accede al proyecto a través de tu navegador.
